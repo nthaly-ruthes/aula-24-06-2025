@@ -7,8 +7,8 @@ programa{
    leia(numero2)
    soma=numero1+numero2
    escreva("soma: ",soma)
-mult=numero1*numero2
-escreva("multiplicacao: "mult)
+   mult=numero1*numero2
+   escreva("multiplicacao: "mult)
    
  }
 }
